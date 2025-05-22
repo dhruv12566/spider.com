@@ -1,0 +1,168 @@
+.navbar{
+    background-color: rgb(82, 82, 82);
+    display: flex;
+    width: 100%;
+}
+a{
+    display: flex;
+    justify-self: center;
+    background-color: red;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 60px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.navbar img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.navbar img:hover{
+    transition: all 0.5s linear;
+    border: 4px solid red;
+    cursor: pointer;
+}
+.ja{
+    margin-top: 21px;
+    margin-left: 200px;
+}
+a:hover{
+    background-color: black;
+    transition: all 0.5s linear;
+    color: red;
+}
+.d{
+    width: 100%;
+    display: flex;
+    background-color:gray;
+}
+.container img{      
+    height: 201px;
+    width: 201px;
+    margin: 40px;
+    opacity: 0.03;
+}
+.hello img{
+    height: 201px;
+    width: 201px;
+    margin-top: 40px;
+    opacity:  0.03;
+}
+.hi img{
+    height: 201px;
+    width: 201px;
+    margin: 40px;
+    opacity:  0.03;
+}
+.how img{
+    height: 201px;
+    width: 201px;
+    margin-top: 40px;
+    opacity:  0.03;
+}
+.ha img{
+    height: 201px;
+    width: 201px;
+    margin: 40px;
+    opacity:  0.03;
+}
+.container img:hover{
+   transition: all 0.9s ease;
+    opacity: 1;
+    border: 2px solid #ff0000;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.hello img:hover{
+    transition: all 0.9s ease;
+    opacity: 1;
+    border: 2px solid red;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.hi img:hover{
+    transition: all 0.9s ease;
+    opacity: 1;
+    border: 2px solid red;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.how img:hover{
+    transition: all 0.9s ease;
+    opacity: 1;
+    border: 2px solid red;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.ha img:hover{
+    transition: all 0.9s ease;
+    opacity: 1;
+    border: 2px solid red;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.ho img{
+    width: 1247px;
+}
+body{
+    background-color: gray;
+}
+.footer{
+    margin-top: 20px;
+    height: 70px;
+    padding: 10px 30px 0px 0px;
+    background-color: rgb(27, 27, 27);
+    color: white;
+}
+.void img{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    margin-left: 41px;
+    margin-top: -20px;
+    opacity: 0.03;
+}
+.void img:hover{
+ opacity: 1;
+ transition: all 0.5s linear;
+ transform: scale(1.1);
+ border: 2px solid red;
+ cursor: pointer;
+ box-shadow: 20px 20px 7px;
+} 
+.abb img{
+    display: flex;
+    height: 400px;
+    width: 450px;
+  margin-left: 350px;
+  margin-top: -400px;
+  opacity: 0.03;
+}
+.abb img:hover{
+    opacity: 1;
+    transition: all 0.5s linear;
+    transform: scale(1.1);
+    border: 2px solid red;
+    cursor: pointer;
+    box-shadow: 20px 20px 7px;
+}
+.samsun img{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin-left: 810px;
+    margin-top: -400px;
+    opacity: 0.03;
+}
+.samsun img:hover{
+    opacity: 1;
+    transition: all 0.5s linear;
+    transform: scale(1.1);
+    border: 2px solid red;
+    cursor: pointer;
+    box-shadow: 20px 20px 7px;
+}
+
+
